@@ -11,8 +11,8 @@ deploys all of it.
 - 🖥️ Slurm on Azure with Bicep + GitHub Actions → [azure-slurm-lab](https://github.com/jredwine2857/azure-slurm-lab)
 - ⛳ Physics-accurate golf simulator (TypeScript, Three.js, Azure) → [golf-sim](https://github.com/jredwine2857/golf-sim)
 
-**Previously:** ran a global Monero mining pool with nodes on every continent and Route 53
-latency-based routing → [monero-pool-infra](https://github.com/jredwine2857/monero-pool-infra)
+**Previously:** ran a global crypto mining pool with nodes on every continent and Route 53
+latency-based routing → [crypto-pool-infra](https://github.com/jredwine2857/monero-pool-infra)
 
 **Stack:** AWS (Bedrock, SageMaker, HyperPod, Lambda) · Azure (AI Foundry, Logic Apps, Entra ID) · Bicep / Terraform / OpenTofu ·
 GitHub Actions · Arista EOS / AVD · EVPN/VXLAN · Slurm · vLLM · Python · TypeScript
